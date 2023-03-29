@@ -16,7 +16,7 @@ Before creating charts, there are a few steps needed to process
 
 Below is the screenshot of the overall analysis
 
-![ Overall](https://github.com/Ten-Ong/Sales-Product-Analysis/blob/main/Overall.JPG)
+![ Overall](https://github.com/Ten-Ong/Sales-Product-Analysis/blob/main/overall.JPG)
 
 
 
@@ -24,13 +24,12 @@ Below is the screenshot of the overall analysis
 - CA was the highest state in revenue with $13.71m (39.76%). 
 - Macbook Pro Laptop was the product that yielded the most revenue $8.035m,(23.3% of all revenue), also it was the most expensive item in this dataset.
 - AAA Batteries(4-pack) was the most sold product with 31,012 quantity ordered (14.84% in all quantity order), also it was the least expensive item in this dataset.
-
---------
+- As expected, most electronic product will have its biggest sales toward the end of the year. December was the highest sales month with $4.6m ( 13.38%) followed by October with $3.7m.
 
 
 ![ monthly sales](https://github.com/Ten-Ong/Sales-Product-Analysis/blob/main/monthly_sales.JPG)
 
-- As expected, most electronic product will have its biggest sales toward the end of the year. December was the highest sales month with $4.6m ( 13.38%) followed by October with $3.7m.
-- Revenue and quantity sold were not correlated because the price of the products.
+
+
 
 
